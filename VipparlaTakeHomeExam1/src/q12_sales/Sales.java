@@ -38,5 +38,5 @@ public class Sales {
         sales_amount=sales_amount+0.01;
     }while(commision_rate <=goal_to_earn);
         System.out.println("minimum sales you have to generate in order to make $30,000"+sales_amount); 
-}
+    }
 }
